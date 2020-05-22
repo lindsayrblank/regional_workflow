@@ -185,9 +185,9 @@
      iau_delthrs    = 6
      iaufhrs        = 30
      iau_inc_files  = ''
-     do_sppt        = .F.
-     do_shum        = .F.
-     do_skeb        = .F.
+     do_sppt        = .T.
+     do_shum        = .T.
+     do_skeb        = .T.
      do_sfcperts    = .F.
      lsm            = 3
      lsoil          = <lsoil>
