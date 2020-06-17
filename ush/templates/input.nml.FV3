@@ -139,9 +139,9 @@
     do_mynnedmf = .true.
     do_mynnsfclay = .false.
     do_sfcperts = .false.
-    do_shum = .false.
-    do_skeb = .false.
-    do_sppt = .false.
+    do_shum = .true.
+    do_skeb = .true.
+    do_sppt = .true.
     dspheat = .true.
     fhcyc = 0.0
     fhlwr = 1200.0
